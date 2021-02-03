@@ -1,0 +1,2 @@
+Creates a restaurant ordering system, where orders of items are inputted and can be retrieved when the 
+customer(s) arrive. Can also handle call-ahead orders and display wait times for a customer.
